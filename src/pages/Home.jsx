@@ -46,8 +46,6 @@ function Home (){
         finally{
             setLoading(false)
         }
-
-
         
     }
 
